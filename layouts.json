@@ -1,0 +1,1095 @@
+{
+  "format": "denbrown-layout-library",
+  "version": "1.0",
+  "coordinate_system": "normalized",
+  "templates": [
+    {
+      "id": "DBW-001",
+      "name": "Lưới 3 × 3",
+      "category": "Grid",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.075,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3623,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.6497,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.075,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3623,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.6497,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.075,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3623,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.6497,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1393.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-002",
+      "name": "Lưới 3 × 3 · Đảo chiều",
+      "category": "Grid",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.6497,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3624,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.075,
+          "y": 0.075,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.6497,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3624,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.075,
+          "y": 0.3623,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.6497,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.3624,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.075,
+          "y": 0.6497,
+          "w": 0.2753,
+          "h": 0.2753,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1393.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-003",
+      "name": "Ảnh chính & 6 khung",
+      "category": "Editorial",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.035,
+          "y": 0.06,
+          "w": 0.46,
+          "h": 0.88,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.68,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.8200000000000001,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.68,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.8200000000000001,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1392.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-004",
+      "name": "Ảnh chính & 6 khung · Đảo chiều",
+      "category": "Editorial",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.505,
+          "y": 0.06,
+          "w": 0.46,
+          "h": 0.88,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.335,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.195,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.055,
+          "y": 0.14,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.335,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.195,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.055,
+          "y": 0.51,
+          "w": 0.125,
+          "h": 0.33,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1392.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-005",
+      "name": "Trang đôi tạp chí",
+      "category": "Magazine",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.025,
+          "y": 0.025,
+          "w": 0.47,
+          "h": 0.95,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.56,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.69,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.82,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.56,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.69,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.82,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1390.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-006",
+      "name": "Trang đôi tạp chí · Đảo chiều",
+      "category": "Magazine",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.505,
+          "y": 0.025,
+          "w": 0.47,
+          "h": 0.95,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.325,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.195,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.065,
+          "y": 0.16,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.325,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.195,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.065,
+          "y": 0.55,
+          "w": 0.115,
+          "h": 0.29,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1390.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-007",
+      "name": "Bốn ảnh cân đối",
+      "category": "Fine Art",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.1,
+          "y": 0.1,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.5125,
+          "y": 0.1,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.1,
+          "y": 0.5125,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.5125,
+          "y": 0.5125,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1391.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-008",
+      "name": "Bốn ảnh cân đối · Đảo chiều",
+      "category": "Fine Art",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.5125,
+          "y": 0.1,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.1,
+          "y": 0.1,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.5125,
+          "y": 0.5125,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.1,
+          "y": 0.5125,
+          "w": 0.3875,
+          "h": 0.3875,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1391.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-009",
+      "name": "Ảnh lớn & chi tiết",
+      "category": "Story",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.04,
+          "y": 0.04,
+          "w": 0.57,
+          "h": 0.92,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.65,
+          "y": 0.08,
+          "w": 0.31,
+          "h": 0.39,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.65,
+          "y": 0.53,
+          "w": 0.31,
+          "h": 0.39,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1388.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-010",
+      "name": "Ảnh lớn & chi tiết · Đảo chiều",
+      "category": "Story",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.39,
+          "y": 0.04,
+          "w": 0.57,
+          "h": 0.92,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.04,
+          "y": 0.08,
+          "w": 0.31,
+          "h": 0.39,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.04,
+          "y": 0.53,
+          "w": 0.31,
+          "h": 0.39,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1388.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-011",
+      "name": "Khung ảnh dọc",
+      "category": "Korean",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.17,
+          "y": 0.11,
+          "w": 0.29,
+          "h": 0.74,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.18,
+          "w": 0.27,
+          "h": 0.28,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.54,
+          "w": 0.27,
+          "h": 0.28,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1387.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-012",
+      "name": "Khung ảnh dọc · Đảo chiều",
+      "category": "Korean",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.54,
+          "y": 0.11,
+          "w": 0.29,
+          "h": 0.74,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.19,
+          "y": 0.18,
+          "w": 0.27,
+          "h": 0.28,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.19,
+          "y": 0.54,
+          "w": 0.27,
+          "h": 0.28,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1387.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-013",
+      "name": "Lưới 2 × 3",
+      "category": "Grid",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.08,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.365,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.65,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.08,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.365,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.65,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1389.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-014",
+      "name": "Lưới 2 × 3 · Đảo chiều",
+      "category": "Grid",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.65,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.365,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.08,
+          "y": 0.08,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.65,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.365,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.08,
+          "y": 0.5075,
+          "w": 0.27,
+          "h": 0.4125,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1389.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-015",
+      "name": "Dải ảnh phim",
+      "category": "Editorial",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.08,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.38,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.68,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1385.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-016",
+      "name": "Dải ảnh phim · Đảo chiều",
+      "category": "Editorial",
+      "aspect_ratio": "4:5",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.68,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.38,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.08,
+          "y": 0.13,
+          "w": 0.24,
+          "h": 0.72,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1385.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-017",
+      "name": "Ảnh đôi đối xứng",
+      "category": "Minimal",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.08,
+          "y": 0.14,
+          "w": 0.39,
+          "h": 0.7,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.53,
+          "y": 0.14,
+          "w": 0.39,
+          "h": 0.7,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1384.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-018",
+      "name": "Ảnh đôi đối xứng · Đảo chiều",
+      "category": "Minimal",
+      "aspect_ratio": "1:1",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.53,
+          "y": 0.14,
+          "w": 0.39,
+          "h": 0.7,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.08,
+          "y": 0.14,
+          "w": 0.39,
+          "h": 0.7,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1384.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-019",
+      "name": "Ảnh chính & 8 ảnh",
+      "category": "Magazine",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.04,
+          "y": 0.08,
+          "w": 0.43,
+          "h": 0.84,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.07,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.75,
+          "y": 0.07,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.29500000000000004,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.75,
+          "y": 0.29500000000000004,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.52,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.75,
+          "y": 0.52,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.54,
+          "y": 0.7450000000000001,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.75,
+          "y": 0.7450000000000001,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1382.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    },
+    {
+      "id": "DBW-020",
+      "name": "Ảnh chính & 8 ảnh · Đảo chiều",
+      "category": "Magazine",
+      "aspect_ratio": "3:2",
+      "background": "#ffffff",
+      "slots": [
+        {
+          "x": 0.53,
+          "y": 0.08,
+          "w": 0.43,
+          "h": 0.84,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.27,
+          "y": 0.07,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.06,
+          "y": 0.07,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.27,
+          "y": 0.29500000000000004,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.06,
+          "y": 0.29500000000000004,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.27,
+          "y": 0.52,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.06,
+          "y": 0.52,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.27,
+          "y": 0.7450000000000001,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        },
+        {
+          "x": 0.06,
+          "y": 0.7450000000000001,
+          "w": 0.19,
+          "h": 0.205,
+          "fit": "cover",
+          "face_safe": true
+        }
+      ],
+      "reference": "references/IMG_1382.jpeg",
+      "reference_is_inspiration_only": true,
+      "editable": true
+    }
+  ]
+}
