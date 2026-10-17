@@ -1,10 +1,7 @@
-DENBROWN AI PHOTO V6 - FIX THUMBNAIL
+DENBROWN AI PHOTO V8
 
-1. Vao GitHub repository Denbrown-ghep-anh.
-2. Upload file index.html trong goi nay de thay index.html cu.
-3. Commit changes.
-4. Doi GitHub Pages cap nhat va tai lai trang (refresh).
+Chỉ cần upload index.html lên GitHub Pages để chạy. Không cần API, assets hay layouts.json.
 
-File index.html da chua 10 anh tham khao va 23 layout tu layouts.json. Khong can upload thu muc references hoac layouts.json.
+Chức năng: nhập nhiều ảnh, tự sinh layout dựa trên số ảnh và tỷ lệ ảnh, tạo nhiều trang, kéo ảnh trong khung, phóng thu, đổi ảnh, xuất JPG từng trang hoặc tất cả.
 
-Luu y: Anh tham khao chi de xem mau, khong tu dong thay anh khach hang.
+Giới hạn: không dùng AI nhận diện khuôn mặt/Gemini; chưa lưu ảnh qua lần tải lại trang; trên iPhone việc tải nhiều file có thể bị Safari chặn; xuất JPG không phải PSD.
